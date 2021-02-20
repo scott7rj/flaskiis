@@ -1,0 +1,3 @@
+pip install wfastcgi
+wfastcgi-enable (execute as administrator)
+set read write permission in app folder to IIS_IUSR
